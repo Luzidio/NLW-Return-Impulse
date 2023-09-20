@@ -13,7 +13,7 @@
 
 <div align="center"> 
 
-  <img src="../impulse/src/assets/Feedback%20Widget.png" width="600"/>
+  <img src="https://github.com/Luzidio/NLW-Return-Impulse/blob/main/src/assets/Feedback%20Widget.png" width="600"/>
 
 </div>
 
